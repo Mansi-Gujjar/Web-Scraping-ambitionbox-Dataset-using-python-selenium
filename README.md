@@ -17,6 +17,7 @@ The goal of this project was to understand real-world data scraping — from aut
 The scraper automatically:
 
 🌐 Opens the AmbitionBox company listing page
+
 ⏳ Waits for all content to load (since it’s JavaScript-rendered)
 
 🧭 Extracts important details such as:
@@ -34,12 +35,11 @@ The scraper automatically:
 💰 Average salary info
 
 
+
 🧑‍💻 Author
 
 Mansi Bansal
 
 📚 Learning Data Science & Web Automation with Python
 
-🎯 Interview experience
 
-🧾 Stores everything neatly in a pandas DataFrame
